@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-export BOT_TOKEN='998013377:AAEOuQ6VHZO-qgs4DLH9MmazFRWcbRAAKrc';
+export BOT_TOKEN='926801718:AAEPlj3rX5yA27ipkc_zJJSHqecLCd6xtBs';
 export DB_ID='YOUR_ID_HERE';
 export DB_SECRET='YOUR_SECRET_HERE';
 export DB_TOKEN='YOUR_TOKEN_HERE';
